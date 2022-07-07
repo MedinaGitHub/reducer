@@ -11,6 +11,12 @@ a {
   text-decoration: none;
 }
 
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+
 * {
   box-sizing: border-box;
 }
